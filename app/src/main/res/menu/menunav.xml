@@ -8,27 +8,27 @@
         android:layout_height="wrap_content"
         android:id="@+id/home"
 
-        android:icon="@drawable/home"
+        android:icon="@drawable/baseline_home_24"
         android:title="" />
     <item
         android:id="@+id/storage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/bookmark"
+        android:icon="@drawable/baseline_bookmark_24"
          android:title=""/>
     <item
         android:id="@+id/newQuiz"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/folderwhite"
+        android:icon="@drawable/baseline_folder_24"
         android:title=""
-        android:visible="false"
+        android:visible="true"
          />
     <item
         android:id="@+id/profile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/profile_outline"
+        android:icon="@drawable/profilewhite"
         android:title=""
         />
 </menu>
